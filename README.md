@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm currently learning more about BlockChain, Reactjs, Nodejs, Apache Beam, Flink Have experience in C#, .Net(Framework,Core), also SQL Server, MQ.
 - 🔭 I’m currently working on C# .Net
 - 🌱 I’m currently learning more about BlockChain, Reactjs, Nodejs, Apache Beam, Flink
 - ⚡ Fun fact: ...
