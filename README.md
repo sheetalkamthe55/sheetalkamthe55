@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on C# .Net
-- 🌱 I’m currently learning more about BlockChain, Reactjs, Nodejs, Apache Beam, Flink
+- 🌱 I’m currently learning more about BlockChain, Reactjs, Nodejs, Apache Beam, Flink, Python
 - ⚡ Fun fact: ...
 
 
